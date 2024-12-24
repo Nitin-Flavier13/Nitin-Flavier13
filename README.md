@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nitin Flavier
-- 👀 I’m interested in Bare-Metal Programming
-- 🌱 I’m currently writing functions for different peripherals of STM32F407 Controller
-- 💞️ I’m ready to work on projects related to Micro-Controllers & IOT 
-- 📫 You can mail me on nitinflavier13@gmail.com
+- 👀 I’m deeply passionate about Data Science & Machine Learning
+- 🌱 I’m currently exploring the field of Deep Learning with TensorFlow
+- 💞️ I’m eager to collaborate on projects that solve real-world problems using Data Science and ML.
+- 📫 You can mail me at nitinflavier13@gmail.com
 
 <!---
 Nitin-Flavier13/Nitin-Flavier13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
