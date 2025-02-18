@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitin Flavier
 - 👀 I’m deeply passionate about Data Science & Machine Learning
-- 🌱 I’m currently exploring the field of Deep Learning with TensorFlow
+- 🌱 I’m currently exploring the field of Deep Learning with PyTorch
 - 💞️ I’m eager to collaborate on projects that solve real-world problems using Data Science and ML.
 - 📫 You can mail me at nitinflavier13@gmail.com
 
